@@ -1,0 +1,47 @@
+{
+  "uuid": "3e0b5bf0-9707-4ad5-a27a-54452dd2a474",
+  "type": "Homework",
+  "title": "Practice 1",
+  "set": "Practice",
+  "number": "1",
+  "allowAccess": [
+    {
+      "mode": "Public",
+      "role": "TA",
+      "credit": 100,
+      "startDate": "2021-01-01T00:00:01",
+      "endDate": "2021-04-30T23:59:59"
+    },
+    {
+      "mode": "Public",
+      "credit": 100,
+      "startDate": "2021-01-14T00:00:01",
+      "endDate": "2021-01-20T23:59:59"
+    },
+    {
+      "mode": "Public",
+      "startDate": "2021-01-14T17:00:01",
+      "endDate": "2021-04-30T23:59:59"
+    },
+    {
+      "uids": [
+        "zhamadeh@ubc.ca"
+      ],
+      "mode": "Public",
+      "credit": 100,
+      "startDate": "2021-01-14T00:00:01",
+      "endDate": "2021-04-20T23:59:59"
+    }
+  ],
+  "zones": [
+    {
+      "title": "Asymptotics",
+      "questions": [
+        {
+          "id": "orderBlocks",
+          "points": 1
+        }
+      ]
+    }
+      ]
+}

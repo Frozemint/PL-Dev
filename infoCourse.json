@@ -1,0 +1,24 @@
+{
+  "uuid": "d10cb1ee-7b71-4a5f-9191-96eda9bb17f2",
+  "name": "Local Test Course",
+  "title": "Local Test Course",
+  "assessmentSets": [
+    {
+      "abbreviation": "P",
+      "name": "Practice",
+      "heading": "Practice",
+      "color": "turquoise2"
+    }
+  ],
+  "topics": [
+    {
+      "name": "background",
+      "color": "blue1",
+      "description": "Background"
+    }
+  ],
+  "timezone": "America/Vancouver",
+  "options": {
+    "useNewQuestionRenderer": true
+  }
+}

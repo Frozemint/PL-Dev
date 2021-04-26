@@ -1,0 +1,15 @@
+{
+  "uuid": "de6526bf-88db-4723-b4c4-67e84493f960",
+  "shortName": "2020W2",
+  "longName": "2020 Winter 2",
+  "userRoles": {
+    "berniesanders@ubc.ca": "Instructor"
+  },
+  "allowAccess": [
+    {
+      "startDate": "2021-01-01T00:00:01",
+      "endDate": "2021-05-31T23:59:59"
+    }
+  ],
+  "timezone": "America/Vancouver"
+}
